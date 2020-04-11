@@ -1,0 +1,14 @@
+{
+  "name": "pddclient",
+  "version": "0.0.1",
+  "description": "pdd Client",
+  "main": "pddClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aspxdiyer",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
